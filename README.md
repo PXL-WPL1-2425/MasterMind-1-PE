@@ -18,3 +18,5 @@ Gebruik de namen die voorzien zijn in de functionele vereisten, maar **zorg ervo
 | Mastermind-PE1-03 | Timer start | Start de timer telkens opnieuw vanaf 1 wanneer de speler een poging heeft gedaan (op de "Check code" knop heeft geklikt) OF de eerste keer wanneer een code is gegenereerd. Gebruik de methode *startcountdown* hiervoor. |
 | Mastermind-PE1-04 | Timer stop | De timer stopt na 10 seconden. Wanneer de speler **niet** binnen de tijd op de knop "Check code" klikt verliest hij zijn beurt. Gebruik de methode *stopcountdown* hiervoor. |
 | Mastermind-PE1-05 | XML documentatie | Voorzie zinvolle XML summary documentatie voor de volgende onderdelen in je project: toggledebug, startcountdown en stopcountdown. |
+
+**Veel succes!!**
